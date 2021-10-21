@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product 1",
+      "desc": "This is the first product",
+      "price": "21.5",
+      "url": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZHVjdHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "name": "product 2",
+      "desc": "This is the second product",
+      "price": "33.6",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLbrxsT17qu3X8qU99eFzAimOSKQSR4e5Xg&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "product 3",
+      "desc": "This is the third product",
+      "price": "7.64",
+      "url": "https://expertphotography.b-cdn.net/wp-content/uploads/2018/09/product-photography-types-water-bottle.jpg"
+    },
+    {
+      "id": 4,
+      "name": "product 4",
+      "desc": "This is the forth product",
+      "price": "19.4",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqRv-KjjZYNkCwa7iStjCU2B6VfRd1LTNcQ&usqp=CAU"
+    }
+  ]
+}
